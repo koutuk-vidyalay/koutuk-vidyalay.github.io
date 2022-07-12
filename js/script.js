@@ -7,3 +7,7 @@ document.querySelector('#info').onclick = function(){alert(
 const details = document.querySelectorAll(".bookDetails");
 details.forEach((targetDetail) => { targetDetail.addEventListener("click", () => { 
  details.forEach((detail) => { if (detail !== targetDetail) { detail.removeAttribute("open"); } }); }); });
+
+
+let notice = "hii";
+document.querySelector("name").innerHTML = notice;
