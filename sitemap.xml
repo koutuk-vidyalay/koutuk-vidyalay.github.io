@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url><loc>https://koutukvs.cf/</loc>
-<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<lastmod>2022-09-07</lastmod></url>
 <url><loc>https://koutukvs.cf/mr/index.html</loc> 
-<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<lastmod>2022-09-07</lastmod></url>
 <url><loc>https://koutukvs.cf/mr/about.html</loc>
-<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<lastmod>2022-09-07</lastmod></url>
 <url><loc>https://koutukvs.cf/mr/board.html</loc>
-<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<lastmod>2022-09-07</lastmod></url>
 <url><loc>https://koutukvs.cf/mr/contact.html</loc>
-<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<lastmod>2022-09-07</lastmod></url>
 <url><loc>https://koutukvs.cf/mr/staff.html</loc> 
-<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<lastmod>2022-09-07</lastmod></url>
 <url><loc>https://koutukvs.cf/mr/student.html</loc>
-<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<lastmod>2022-09-07</lastmod></url>
 </urlset>
