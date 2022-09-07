@@ -1,13 +1,21 @@
-https://koutukvs.cf/
-https://koutukvs.cf/mr/index.html
-https://koutukvs.cf/mr/about.html
-https://koutukvs.cf/mr/board.html
-https://koutukvs.cf/mr/contact.html
-https://koutukvs.cf/mr/staff.html
-https://koutukvs.cf/mr/student.html
-https://koutukvs.cf/en/index.html
-https://koutukvs.cf/en/about.html
-https://koutukvs.cf/en/board.html
-https://koutukvs.cf/en/contact.html
-https://koutukvs.cf/en/staff.html
-https://koutukvs.cf/en/student.html
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>https://koutukvs.cf/</loc>
+<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<url><loc>https://koutukvs.cf/mr/index.html</loc> 
+<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<url><loc>https://koutukvs.cf/mr/about.html</loc>
+<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<url><loc>https://koutukvs.cf/mr/board.html</loc>
+<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<url><loc>https://koutukvs.cf/mr/contact.html</loc>
+<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<url><loc>https://koutukvs.cf/mr/staff.html</loc> 
+<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+<url><loc>https://koutukvs.cf/mr/student.html</loc>
+<lastmod>2022-09-07T11:51:33+00:00</lastmod></url>
+</urlset>
